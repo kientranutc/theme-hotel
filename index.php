@@ -46,6 +46,7 @@
 <!-- reservation-information -->
 <?php include "service.php" ?>
 <?php include "our-experts.php" ?>
+<?php include "news.php" ?>
 
 <!-- services -->
 <div class="spacer services wowload fadeInUp">
@@ -64,7 +65,7 @@
                 <a class="right carousel-control" href="#RoomCarousel" role="button" data-slide="next"><i class="fa fa-angle-right"></i></a>
             </div>
             <!-- RoomCarousel-->
-            <div class="caption">Rooms<a href="rooms-tariff.php" class="pull-right"><i class="fa fa-edit"></i></a></div>
+            <div class="caption">Rooms<a href="rooms-tariff.php" class="pull-right">Read more</a></div>
         </div>
 
 
@@ -81,7 +82,7 @@
                 <a class="right carousel-control" href="#TourCarousel" role="button" data-slide="next"><i class="fa fa-angle-right"></i></a>
             </div>
             <!-- RoomCarousel-->
-            <div class="caption">Tour Packages<a href="gallery.php" class="pull-right"><i class="fa fa-edit"></i></a></div>
+            <div class="caption">Tour Packages<a href="gallery.php" class="pull-right">Read more</a></div>
         </div>
 
 
@@ -98,7 +99,7 @@
                 <a class="right carousel-control" href="#FoodCarousel" role="button" data-slide="next"><i class="fa fa-angle-right"></i></a>
             </div>
             <!-- RoomCarousel-->
-            <div class="caption">Food and Drinks<a href="gallery.php" class="pull-right"><i class="fa fa-edit"></i></a></div>
+            <div class="caption">Food and Drinks<a href="gallery.php" class="pull-right">Read more</a></div>
         </div>
     </div>
 </div>

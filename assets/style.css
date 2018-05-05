@@ -1,4 +1,4 @@
-body{background-color: #fff;font-family: 'Raleway', sans-serif;font-size: 15px;line-height: 15px; color: #73726C;}
+body{background-color: #fff;font-family: 'Open Sans', sans-serif;font-size: 15px;line-height: 15px; color: #73726C;}
 
 
 
@@ -47,7 +47,21 @@ p{margin-bottom: 1em;line-height: 1.5em;}
 
 .services{background-color:#dedbd3; }
 .services .caption{background-color: #b9b2a0;color: #46433b;padding: 1.5em;}
-.services .caption a {color: #585650;font-size: 1.25em;}
+.services .caption a {
+    color: #ffff;
+    font-size: 14px;
+    padding: 7px 5px;
+    background: red;
+    vertical-align: -9px;
+    border-radius: 5px;
+}
+.pull-right {
+    float: right!important;
+}
+font-awesome.min.css:4
+.pull-right {
+    float: right;
+}
 .services .caption a:hover{color: #fff;}
 .carousel-control{width: 10%;background: none !important;}
 .carousel-control i.fa{position: absolute;left: 0;right: 0;top: 50%;margin-top: -10px;
