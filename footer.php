@@ -78,7 +78,7 @@
     <!--/.footer-bottom--> 
 </footer>
 
-<div class="text-center copyright">© 2018 by <a href="">STS Hospitality</a></div>
+<div class="text-center copyright">© 2018 by <a href="">CAO Hospitality</a></div>
 
 <a href="#home" class="toTop scroll"><i class="fa fa-angle-up"></i></a>
 
