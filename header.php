@@ -32,6 +32,7 @@
 <link rel="icon" href="images/favicon.png" type="image/x-icon">
 
 <link rel="stylesheet" href="assets/style.css">
+    <link rel="stylesheet" href="assets/css/service.css">
 
 </head>
 

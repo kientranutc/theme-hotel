@@ -144,7 +144,7 @@
 </div>
 </div>
 <!-- reservation-information -->
-
+<?php include "service.php" ?>
 
 
 <!-- services -->
@@ -204,6 +204,8 @@
 </div>
 </div>
 <!-- services -->
+
+
 
 
 <?php include 'footer.php';?>
