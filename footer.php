@@ -4,23 +4,51 @@
 
 <footer class="spacer">
         <div class="container">
+            <div class="footer-title">
+                <h2>Contact us</h2>
+            </div>
             <div class="row">
-                <div class="col-sm-5">
-                    <h4>Holiday Crown</h4>
-                    <p>Holiday Crown was these three and songs arose whose. Of in vicinity contempt together in possible branched. Assured company hastily looking garrets in oh. Most have love my gone to this so. Discovered interested prosperous the our affronting insipidity day. Missed lovers way one vanity wishes nay but. Use shy seemed within twenty wished old few regret passed. Absolute one hastened mrs any sensible. </p>
-                </div>              
                  
-                 <div class="col-sm-3">
-                    <h4>Quick Links</h4>
+                 <div class="col-sm-4">
                     <ul class="list-unstyled">
-                        <li><a href="rooms-tariff.php">Rooms & Tariff</a></li>        
-                        <li><a href="introduction.php">Introduction</a></li>
-                        <li><a href="gallery.php">Gallery</a></li>
-                        <li><a href="tour.php">Tour Packages</a></li>
-                        <li><a href="contact.php">Contact</a></li>
+                        <li>
+                            <h3><i class="fa fa-map-marker" aria-hidden="true"></i> <b>Trụ sở chính</b>
+                            </h3>
+                            <div style="margin-left: 20px">
+                               <p> <b>Tên công ty:</b> Công ty CP quản lý khách sạn Cao</p>
+                               <p> <b>Địa chỉ:</b> 27 Lý Thường Kiệt, Hoàn Kiếm, Hà Nội</p>
+                                <p> <b>MST:</b> 0108189456</p>
+
+                            </div>
+                        </li>
+                        <li>
+                            <h3><i class="fa fa-envelope" aria-hidden="true"></i> Email / Website</h3>
+                            <div style="margin-left: 20px">
+                                <p><b>Email:</b> caohospitality@gmail.com
+                                </p>
+                            </div>
+                        </li>
+                        <li>
+                            <h3><i class="fa fa-mobile fa-lg" aria-hidden="true"></i> <b>Liên hệ
+                                </b></h3>
+                            <div style="margin-left: 20px">
+                                <p><b>Điện thoại: </b><a href="">090.415.4029</a>
+                                </p>
+                            </div>
+                        </li>
+                        <li>
+                            <h3><i class="fa fa-university" aria-hidden="true"></i> <b>Thông tin tài khoản</b>
+                            </h3>
+                            <div style="margin-left: 20px">
+                                <p><b>Tên người thụ hưởng:</b> Công ty cổ phần quản lý khách sạn Cao</p>
+                               <p><b>Số tài khoản:</b> 147888686</p>
+                                <p><b>Tại:</b> Ngân hàng VB bank – chi nhánh Ngô Quyền</p>
+                            </div>
+                        </li>
+
                     </ul>
                 </div>
-                 <div class="col-sm-4 subscribe">
+                 <div class="col-sm-8 subscribe">
                     <h4>Subscription</h4>
                     <div class="input-group">
                     <input type="text" class="form-control" placeholder="Enter email id here">
@@ -45,7 +73,7 @@
     <!--/.footer-bottom--> 
 </footer>
 
-<div class="text-center copyright">Powered by <a href="http://thebootstrapthemes.com">thebootstrapthemes.com</a></div>
+<div class="text-center copyright">© 2018 by <a href="">STS Hospitality</a></div>
 
 <a href="#home" class="toTop scroll"><i class="fa fa-angle-up"></i></a>
 
@@ -63,10 +91,6 @@
     <a class="close">×</a>
     <!-- The modal dialog, which will be used to wrap the lightbox content -->    
 </div>
-
-
-
-
 
 <script src="assets/jquery.js"></script>
 
@@ -88,20 +112,8 @@
 
 <!-- gallery -->
 <script src="assets/gallery/jquery.blueimp-gallery.min.js"></script>
-
-
 <!-- custom script -->
 <script src="assets/script.js"></script>
-
-
-
-
-
-
-
-
-
-
 </body>
 </html>
 
