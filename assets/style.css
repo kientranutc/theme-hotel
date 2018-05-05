@@ -1,10 +1,65 @@
-body{background-color: #fff;font-family: 'Open Sans', sans-serif;font-size: 15px;line-height: 15px; color: #73726C;}
+@font-face {
+    font-family: AlegreyaSans-Black;
+    src: url('font/AlegreyaSans-Black.otf');
+}
+
+@font-face {
+    font-family: AlegreyaSans-BlackItalic;
+    src: url('font/AlegreyaSans-BlackItalic.otf');
+}
+
+@font-face {
+    font-family: AlegreyaSans-Regular;
+    src: url('font/AlegreyaSans-Regular.otf');
+}
+
+@font-face {
+    font-family: AlegreyaSans-Light;
+    src: url('font/AlegreyaSans-Light.otf');
+}
+
+@font-face {
+    font-family: Asap-Regular;
+    src: url('font/Asap-Regular.otf');
+}
+
+
+@font-face {
+    font-family: Asap-Bold;
+    src: url('font/Asap-Bold.otf');
+}
+
+@font-face {
+    font-family: Asap-Medium;
+    src: url('font/Asap-Medium.otf');
+}
+
+
+body{
+    /*background-color: #fff;*/
+    font-family: Asap-Regular;
+    font-size: 17px;line-height: 15px;
+    color: #73726C;
+    /* The image used */
+    background-image: url("img/banner-1018812.jpg");
+
+    /* Full height */
+    height: 100%;
+
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.container {
+    width: 1100px;
+}
 
 
 
 .btn,a,a:hover{text-decoration: none;-webkit-transition: all 0.3s ease-in-out;-moz-transition: all 0.3s ease-in-out;-ms-transition: all 0.3s ease-in-out;-o-transition: all 0.3s ease-in-out;transition: all 0.3s ease-in-out;outline:0 ;}
 
-h1,h2,h3,h4,h5,h6{font-family:'Old Standard TT', serif;line-height: 1em;margin: 0;}
+h1,h2,h3,h4,h5,h6{font-family:'Asap-Bold', serif;line-height: 1em;margin: 0;}
 h1{font-size: 5em;}
 h1.title,h2{font-size: 2em;line-height: 3em;}
 h3{font-size: 1.5em; margin-bottom: 0.70em;}

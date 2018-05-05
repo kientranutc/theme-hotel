@@ -44,7 +44,8 @@
 <!-- reservation-information -->
 
 <!-- reservation-information -->
-<?php include "service.php" ?>
+<?php include "why-us.php" ?>
+<?php include "value.php" ?>
 <?php include "our-experts.php" ?>
 <?php include "news.php" ?>
 <?php include 'footer.php';?>
