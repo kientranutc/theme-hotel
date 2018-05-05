@@ -5,35 +5,37 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
 <title>Holiday Crown | Best hotel in Dubai</title>
 
-<!-- Google fonts -->
+    <!-- Google fonts -->
     <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i,800,800i" rel="stylesheet">
 
-<!-- font awesome -->
-<link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
+    <!-- font awesome -->
+    <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
 
 
-<!-- bootstrap -->
-<link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css" />
+    <!-- bootstrap -->
+    <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css" />
 
-<!-- uniform -->
-<link type="text/css" rel="stylesheet" href="assets/uniform/css/uniform.default.min.css" />
+    <!-- uniform -->
+    <link type="text/css" rel="stylesheet" href="assets/uniform/css/uniform.default.min.css" />
 
-<!-- animate.css -->
-<link rel="stylesheet" href="assets/wow/animate.css" />
-
-
-<!-- gallery -->
-<link rel="stylesheet" href="assets/gallery/blueimp-gallery.min.css">
+    <!-- animate.css -->
+    <link rel="stylesheet" href="assets/wow/animate.css" />
 
 
-<!-- favicon -->
-<link rel="shortcut icon" href="images/favicon.png" type="image/x-icon">
-<link rel="icon" href="images/favicon.png" type="image/x-icon">
+    <!-- gallery -->
+    <link rel="stylesheet" href="assets/gallery/blueimp-gallery.min.css">
 
-<link rel="stylesheet" href="assets/style.css">
+
+    <!-- favicon -->
+    <link rel="shortcut icon" href="images/favicon.png" type="image/x-icon">
+    <link rel="icon" href="images/favicon.png" type="image/x-icon">
+
+    <link rel="stylesheet" href="assets/style.css">
     <link rel="stylesheet" href="assets/css/service.css">
+    <link rel="stylesheet" href="assets/css/why-us.css">
     <link rel="stylesheet" href="assets/css/our-experts.css">
     <link rel="stylesheet" href="assets/css/news.css">
+    <link rel="stylesheet" href="assets/css/value.css">
 
 </head>
 
