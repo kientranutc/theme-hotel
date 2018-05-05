@@ -50,7 +50,8 @@ p{margin-bottom: 1em;line-height: 1.5em;}
 .services .caption a {color: #585650;font-size: 1.25em;}
 .services .caption a:hover{color: #fff;}
 .carousel-control{width: 10%;background: none !important;}
-.carousel-control i.fa{position: absolute;left: 0;right: 0;top: 50%;margin-top: -10px;}
+.carousel-control i.fa{position: absolute;left: 0;right: 0;top: 50%;margin-top: -10px;
+}
 .carousel img{width: 100%;}
 
 /*footer*/
