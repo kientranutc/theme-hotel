@@ -31,11 +31,13 @@
     <link rel="icon" href="images/favicon.png" type="image/x-icon">
 
     <link rel="stylesheet" href="assets/style.css">
+    <link rel="stylesheet" href="assets/css/banner.css">
     <link rel="stylesheet" href="assets/css/service.css">
     <link rel="stylesheet" href="assets/css/why-us.css">
     <link rel="stylesheet" href="assets/css/our-experts.css">
     <link rel="stylesheet" href="assets/css/news.css">
     <link rel="stylesheet" href="assets/css/value.css">
+
     <link rel="stylesheet" href="assets/css/responsive.css">
 
 </head>
@@ -76,9 +78,10 @@
       
       <ul class="nav navbar-nav">        
         <li><a class="animated fadeInDown" href="index.php">Home </a></li>
-        <li><a class="animated fadeInDown" href="rooms-tariff.php">Rooms & Tariff</a></li>
-        <li><a class="animated fadeInDown" href="introduction.php">Introduction</a></li>
-        <li><a class="animated fadeInDown" href="gallery.php">Gallery</a></li>
+        <li><a class="animated fadeInDown" href="rooms-tariff.php">Why choose us</a></li>
+        <li><a class="animated fadeInDown" href="#our-experts-id">Team</a></li>
+        <li><a class="animated fadeInDown" href="">Service</a></li>
+          <li><a class="animated fadeInDown" href="">News</a></li>
         <li><a class="animated fadeInDown" href="contact.php">Contact</a></li>
       </ul>
     </div><!-- Wnavbar-collapse -->

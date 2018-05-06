@@ -12,7 +12,8 @@
                 <!-- RoomCarousel -->
                 <div id="RoomCarousel" class="carousel slide" data-ride="carousel">
                     <div class="carousel-inner">
-                        <div class="item active"><img src="images/photos/8.jpg" class="img-responsive" alt="slide"></div>
+                        <div class="item active"><img src="images/photos/8.jpg" class="img-responsive" alt="slide">
+                        </div>
                         <div class="item  height-full"><img src="images/photos/9.jpg"  class="img-responsive" alt="slide"></div>
                         <div class="item  height-full"><img src="images/photos/10.jpg"  class="img-responsive" alt="slide"></div>
                     </div>

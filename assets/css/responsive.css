@@ -28,6 +28,20 @@
         padding: 50px 0px;
         background: #F2F2F2;
     }
+    .banner-content {
+        position: absolute;
+        top: 41%;
+        left: 29%;
+        background: unset;
+        color: #ffffff;
+        width: 44%;
+        padding: 10px 15px;
+
+    }
+    .banner-content p:first-child {
+       display: none;
+    }
+
 }
 
 @media (min-width:768px) and (max-width: 1024px) {}
