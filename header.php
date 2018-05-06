@@ -3,6 +3,10 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+    <meta name="description" content="mô tả" />
+    <meta name="keywords" content="từ khóa" />
+    <meta name="robots" content="noodp,index,follow" />
+    <meta name='revisit-after' content='1 days' />
 <title>CAO-Hospitality</title>
 
     <!-- Google fonts -->
