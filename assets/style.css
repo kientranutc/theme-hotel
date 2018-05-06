@@ -292,3 +292,14 @@ body::-webkit-scrollbar {
 
     .room-features .size-price{margin-bottom: 2em;}
 }
+/*load more*/
+.load-more {
+    text-align: center;
+}
+.load-more p a {
+    padding: 5px 10px;
+    text-decoration: none;
+    background: #1F3952;
+    color: #ffffff;
+    border-radius: 5px;
+}

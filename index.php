@@ -1,8 +1,4 @@
 <?php include 'header.php';?>
-
-
-
-
 <!-- banner -->
 <div class="banner">
             <div id="BannerCarousels" class="carousel slide" data-ride="carousel">
@@ -16,20 +12,20 @@
                     <div class="item active">
                         <img src="assets/img/banner1.jpg" class="img-responsive" alt="slide">
                         <div class="banner-content">
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nostrum, veniam!</p>
-                            <p><a href="">Read more</a></p>
+                            <p class="animated fadeInDown">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nostrum, veniam!</p>
+                            <p class="animated fadeInUp"><a href="">Read more</a></p>
                         </div>
                     </div>
                     <div class="item  height-full"><img src="assets/img/banner2.jpg"  class="img-responsive" alt="slide">
                         <div class="banner-content">
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nostrum, veniam!</p>
-                            <p><a href="">Read more</a></p>
+                            <p class="animated fadeInDown">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nostrum, veniam!</p>
+                            <p class="animated fadeInUp"><a href="">Read more</a></p>
                         </div>
                     </div>
                     <div class="item  height-full"><img src="assets/img/banner1.jpg"  class="img-responsive" alt="slide">
                         <div class="banner-content">
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nostrum, veniam!</p>
-                            <p><a href="">Read more</a></p>
+                            <p class="animated fadeInDown">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nostrum, veniam!</p>
+                            <p class="animated fadeInUp"><a href="">Read more</a></p>
                         </div>
                     </div>
                 </div>
@@ -45,7 +41,7 @@
 
 
 <!-- reservation-information -->
-
+<?php include "projects.php"?>
 <!-- reservation-information -->
 <?php include "why-us.php" ?>
 <?php include "value.php" ?>

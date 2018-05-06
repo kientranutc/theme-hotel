@@ -1,7 +1,7 @@
 <div class="our-experts" id="our-experts-id">
     <div class="our-experts-title">
         <div class="container">
-            <h3 class="text-center">OUR EXPERTS</h3>
+            <h3 class="text-center">OUR EXPERTSOUR EXPERTSOUR EXPERTS</h3>
         </div>
     </div>
     <div class="our-experts-content wowload fadeInDown">

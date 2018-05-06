@@ -1,7 +1,7 @@
 <section id="section-why-us">
 	<div class="title">
 		<div class="container">
-        	<h3 class="text-center">Tại sao lại chọn chúng tôi?</h3>
+        	<h3 class="text-center">Why choose us</h3>
     	</div>
    	</div>
    	<div class="content wowload fadeInDown">

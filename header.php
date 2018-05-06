@@ -36,6 +36,7 @@
     <link rel="stylesheet" href="assets/css/why-us.css">
     <link rel="stylesheet" href="assets/css/our-experts.css">
     <link rel="stylesheet" href="assets/css/news.css">
+    <link rel="stylesheet" href="assets/css/project.css">
     <link rel="stylesheet" href="assets/css/value.css">
 
     <link rel="stylesheet" href="assets/css/responsive.css">
@@ -78,7 +79,7 @@
       
       <ul class="nav navbar-nav">        
         <li><a class="animated fadeInDown" href="index.php">Home </a></li>
-        <li><a class="animated fadeInDown" href="rooms-tariff.php">Why choose us</a></li>
+        <li><a class="animated fadeInDown" href="#section-why-us">Why choose us</a></li>
         <li><a class="animated fadeInDown" href="#our-experts-id">Team</a></li>
         <li><a class="animated fadeInDown" href="">Service</a></li>
           <li><a class="animated fadeInDown" href="">News</a></li>

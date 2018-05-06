@@ -1,21 +1,66 @@
-<div class="spacer services wowload fadeInUp">
-    <div class="container">
-        <div class="row">
-            <div class="col-sm-12">
-                <!-- RoomCarousel -->
-                <div id="FoodCarousels" class="carousel slide" data-ride="carousel">
-                    <div class="carousel-inner">
-                        <div class="item active"><img src="images/photos/1.jpg" class="img-responsive" alt="slide"></div>
-                        <div class="item  height-full"><img src="images/photos/2.jpg"  class="img-responsive" alt="slide"></div>
-                        <div class="item  height-full"><img src="images/photos/5.jpg"  class="img-responsive" alt="slide"></div>
-                    </div>
-                    <!-- Controls -->
-                    <a class="left carousel-control" href="#FoodCarousels" role="button" data-slide="prev"><i class="fa fa-angle-left"></i></a>
-                    <a class="right carousel-control" href="#FoodCarousels" role="button" data-slide="next"><i class="fa fa-angle-right"></i></a>
+<div class="projects">
+    <div class="projects-title">
+        <div class="container">
+            <h3 class="text-center">Projects</h3>
+        </div>
+    </div>
+    <div class="projects-content">
+        <div class="container">
+            <div class="row gallery">
+                <div class="col-sm-4 wowload fadeInUp">
+                    <a href="" title="Click để xem chi tiết" class="gallery-image item">
+                        <img src="assets/img/duan.jpg" class="img-responsive">
+                        <div class="info-project">
+                                <p>Dự án x</p>
+                        </div>
+                    </a>
                 </div>
-                <!-- RoomCarousel-->
-                <div class="caption">Food and Drinks<a href="gallery.php" class="pull-right"><i class="fa fa-edit"></i></a></div>
+                <div class="col-sm-4 wowload fadeInUp ">
+                    <a href="" title="Click để xem chi tiết" class="gallery-image item">
+                        <img src="assets/img/duan2.jpg" class="img-responsive">
+                        <div class="info-project">
+                            <p>Dự án x</p>
+                        </div>
+                    </a>
+                </div>
+                <div class="col-sm-4 wowload fadeInUp ">
+                    <a href="" title="Click để xem chi tiết" class="gallery-image item">
+                        <img src="assets/img/duan2.jpg" class="img-responsive">
+                        <div class="info-project">
+                            <p>Dự án x</p>
+                        </div>
+                    </a>
+                </div>
+                <div class="col-sm-4 wowload fadeInUp">
+                    <a href="" title="Click để xem chi tiết" class="gallery-image item">
+                        <img src="assets/img/duan2.jpg" class="img-responsive">
+                        <div class="info-project">
+                            <p>Dự án x</p>
+                        </div>
+                    </a>
+                </div>
+                <div class="col-sm-4 wowload fadeInUp">
+                    <a href="" title="Click để xem chi tiết" class="gallery-image item">
+                        <img src="assets/img/duan.jpg" class="img-responsive">
+                        <div class="info-project">
+                            <p>Dự án x</p>
+                        </div>
+                    </a>
+                </div>
+                <div class="col-sm-4 wowload fadeInUp">
+                    <a href="" title="Click để xem chi tiết" class="gallery-image item">
+                        <img src="assets/img/duan2.jpg" class="img-responsive">
+                        <div class="info-project">
+                            <p>Dự án x</p>
+                        </div>
+                    </a>
+                </div>
             </div>
         </div>
+    </div>
+    <div class="load-more">
+       <div class="container">
+           <p><a href=""><i class="fa fa-angle-double-right fa-sm animated fadeInLeft" aria-hidden="true"></i> Load more</a></p>
+       </div>
     </div>
 </div>
