@@ -21,7 +21,7 @@
                     <a class="right carousel-control" href="#RoomCarousel" role="button" data-slide="next"><i class="fa fa-angle-right"></i></a>
                 </div>
                 <!-- RoomCarousel-->
-                <div class="caption">Rooms<a href="rooms-tariff.php" class="pull-right">Read more</a></div>
+                <div class="caption">Rooms<a href="" class="pull-right">Read more</a></div>
             </div>
 
 
@@ -38,7 +38,7 @@
                     <a class="right carousel-control" href="#TourCarousel" role="button" data-slide="next"><i class="fa fa-angle-right"></i></a>
                 </div>
                 <!-- RoomCarousel-->
-                <div class="caption">Tour Packages<a href="gallery.php" class="pull-right">Read more</a></div>
+                <div class="caption">Tour Packages<a href="" class="pull-right">Read more</a></div>
             </div>
 
 
@@ -55,7 +55,7 @@
                     <a class="right carousel-control" href="#FoodCarousel" role="button" data-slide="next"><i class="fa fa-angle-right"></i></a>
                 </div>
                 <!-- RoomCarousel-->
-                <div class="caption">Food and Drinks<a href="gallery.php" class="pull-right">Read more</a></div>
+                <div class="caption">Food and Drinks<a href="" class="pull-right">Read more</a></div>
             </div>
         </div>
     </div>

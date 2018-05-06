@@ -3,7 +3,7 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
-<title>Holiday Crown | Best hotel in Dubai</title>
+<title>CAO-Hospitality</title>
 
     <!-- Google fonts -->
     <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i,800,800i" rel="stylesheet">
@@ -63,7 +63,12 @@
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
       </button>
-      <a class="navbar-brand" href="index.php"><img src="images/logo.png"  alt="holiday crown"></a>
+      <a class="navbar-brand" href="index.php">
+          <span class="logo-content">
+              <img src="assets/img/logo.png"  alt="">
+              <span class="title-logo"><b>CAO-Hospitality</b></span>
+          </span>
+      </a>
     </div>
 
     <!-- Collect the nav links, forms, and other content for toggling -->
