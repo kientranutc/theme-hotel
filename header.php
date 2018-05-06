@@ -36,6 +36,7 @@
     <link rel="stylesheet" href="assets/css/our-experts.css">
     <link rel="stylesheet" href="assets/css/news.css">
     <link rel="stylesheet" href="assets/css/value.css">
+    <link rel="stylesheet" href="assets/css/responsive.css">
 
 </head>
 
