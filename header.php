@@ -7,7 +7,7 @@
     <meta name="keywords" content="từ khóa" />
     <meta name="robots" content="noodp,index,follow" />
     <meta name='revisit-after' content='1 days' />
-<title>CAO-Hospitality</title>
+    <title>CAO-Hospitality</title>
 
     <!-- Google fonts -->
     <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i,800,800i" rel="stylesheet">
